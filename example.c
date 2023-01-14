@@ -1,4 +1,4 @@
-#include "0-1knapsack.c"
+#include "0-1knapsack_recursive.c"
 
 int main()
 {
