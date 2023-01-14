@@ -16,7 +16,8 @@ The function will return the maximum value that can be put in the knapsack witho
 ```c
 #include "knapsack_recursive.c"
 
-int main() {
+int main()
+{
     int W = 50;
     int wt[] = {10, 20, 30};
     int val[] = {60, 100, 120};
