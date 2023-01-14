@@ -4,7 +4,7 @@ This is an implementation of the 0-1 knapsack problem in C using a recursive app
 
 ## How to use
 
-To use this implementation, include the `knapsack_recursive.c` file in your project and call the knapSackRecursive() function with the following parameters:
+To use this implementation, include the `knapsack_recursive.c` file in your project and call the `knapSackRecursive()` function with the following parameters:
 
 - `W`: the maximum weight capacity of the knapsack
 - `wt[]`: an array of weights for each item
